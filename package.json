@@ -17,9 +17,14 @@
   ],
   "author": "karlla",
   "license": "ISC",
-   "type": "module",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/karllabr/02-banco-de-dados/issues"
   },
-  "homepage": "https://github.com/karllabr/02-banco-de-dados#readme"
+  "homepage": "https://github.com/karllabr/02-banco-de-dados#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.4"
+  }
 }
